@@ -6,6 +6,7 @@ Ensure to source the environment.sh file before running vagrant up
 ## Deployment
 
 ``` bash
+source var.env
 vagrant up
 ```
 
